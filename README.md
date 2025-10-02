@@ -3,6 +3,8 @@
 ## Project Overview
 AI Driven Honeypot for Threat Intelligence is an **AI-driven multi-honeypot system** designed to collect and analyze attacker behavior in real-time. The project integrates T-Pot honeypots deployed on **AWS Free Tier** and an AI/ML pipeline that generates automated threat intelligence reports and visualizations.
 
+Honey pots provide a controlled environment to study real attacks. High-interaction honeypots allow us to develop a higher understanding of attack signatures and bad actor goals. Implementing an AI agent to deploy honeypots and interact with bad actors will yield an indepth understanding of attack behaviors regarding phishing, exfiltrations, injection, DDOS, and other attacks.
+
 This project is ideal for **ethical hacking, penetration testing practice, and threat intelligence learning**, providing a safe and controlled environment for analyzing attacks.
 
 ---
